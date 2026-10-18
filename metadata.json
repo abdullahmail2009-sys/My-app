@@ -1,0 +1,7 @@
+{
+  "name": "MyStudyPath: RBSE Class 12 Syllabus Management",
+  "description": "Complete RBSE Class 12 syllabus tracking, spaced revision, PYQ analysis, formula notebooks, and study planning for the 2027–28 session.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.3" />
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#grad)" />
+  <g filter="url(#shadow)" transform="translate(64, 64) scale(0.75)">
+    <!-- Graduation Cap / Academic Book Icon -->
+    <path d="M256 60 L450 160 L256 260 L62 160 Z" fill="#ffffff" />
+    <path d="M120 200 L120 330 C120 380 200 420 256 420 C312 420 392 380 392 330 L392 200 L256 270 Z" fill="#93c5fd" opacity="0.9" />
+    <path d="M410 180 L410 320 L390 320 L390 190 Z" fill="#fbbf24" />
+    <circle cx="400" cy="335" r="14" fill="#fbbf24" />
+    <!-- RBSE Emblem mark -->
+    <text x="256" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="44" font-weight="900" fill="#1e3a8a" text-anchor="middle" letter-spacing="2">RBSE 12</text>
+  </g>
+</svg>
